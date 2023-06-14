@@ -1,0 +1,216 @@
+,ID,Date Issued,Due Date,Date Resolved,Location,Observation Type,Category,Subcontractor,Month,Year,On Time
+3,5,2022-04-12,,4/12/2022,33rd Street,Positive Observation,"Signs, Signals & Barricades",,4,2022,No Due Date
+4,6,2022-04-14,,,33rd Street,Positive Observation,Personal Safety & Life Saving Equipment,,4,2022,No Due Date
+6,8,2022-04-19,,4/28/2022,Houston Street,Negative Observation,"Signs, Signals & Barricades",,4,2022,No Due Date
+7,9,2022-04-20,,,33rd Street,Positive Observation,"Signs, Signals & Barricades",,4,2022,No Due Date
+9,11,2022-05-01,,,Broad Street,Positive Observation,Personal Safety & Life Saving Equipment,,5,2022,No Due Date
+25,27,2022-07-13,7/15/2022,7/15/2022,51st Street,Negative Observation,Fire Protection and Prevention,,7,2022,Closed - On Time
+25,27,2022-07-13,7/15/2022,7/15/2022,51st Street,Negative Observation, COVID19 Procedures,,7,2022,Closed - On Time
+26,28,2022-07-14,7/16/2022,7/14/2022,51st Street,Negative Observation,Personal Safety & Life Saving Equipment,,7,2022,Closed - On Time
+26,28,2022-07-14,7/16/2022,7/14/2022,51st Street,Negative Observation," Signs, Signals & Barricades",,7,2022,Closed - On Time
+26,28,2022-07-14,7/16/2022,7/14/2022,51st Street,Negative Observation, Fall Protection,,7,2022,Closed - On Time
+26,28,2022-07-14,7/16/2022,7/14/2022,51st Street,Negative Observation, Electrical,,7,2022,Closed - On Time
+26,28,2022-07-14,7/16/2022,7/14/2022,51st Street,Negative Observation, Track Safety,,7,2022,Closed - On Time
+27,29,2022-07-14,7/16/2022,7/15/2022,51st Street,Negative Observation,Fire Protection and Prevention,,7,2022,Closed - On Time
+28,30,2022-08-11,8/15/2022,,51st Street,Positive Observation,Fall Protection,,8,2022,Open - On Time
+29,31,2022-08-11,8/15/2022,,51st Street,Positive Observation,Toxic and Hazardous Substances,,8,2022,Open - On Time
+30,32,2022-08-04,8/15/2022,,51st Street,Positive Observation,Environmental Requirements (project specific),,8,2022,Open - On Time
+31,33,2022-08-15,8/15/2022,,51st Street,Positive Observation,Personal Safety & Life Saving Equipment,,8,2022,Open - On Time
+32,34,2022-08-15,8/15/2022,,51st Street,Positive Observation,Public Exposure: MPT,,8,2022,Open - On Time
+34,36,2022-08-19,8/19/2022,8/19/2022,51st Street,Positive Observation,Electrical,"TC Electric, LLC",8,2022,Closed - On Time
+35,37,2022-08-19,8/19/2022,8/19/2022,51st Street,Positive Observation,Electrical,"TC Electric, LLC",8,2022,Closed - On Time
+36,38,2022-08-30,8/30/2022,8/30/2022,51st Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,8,2022,Closed - On Time
+41,43,2022-09-15,9/20/2022,9/19/2022,Houston Street,Negative Observation,"Underground Construction, Caissons, Cofferdams and Compressed Air",MLJTC2,9,2022,Closed - On Time
+41,43,2022-09-15,9/20/2022,9/19/2022,Houston Street,Negative Observation, Excavations,MLJTC2,9,2022,Closed - On Time
+42,44,2022-09-23,9/23/2022,9/23/2022,Houston Street,Negative Observation,Welding and Cutting,MLJTC2,9,2022,Closed - On Time
+42,44,2022-09-23,9/23/2022,9/23/2022,Houston Street,Negative Observation, Fire Protection and Prevention,MLJTC2,9,2022,Closed - On Time
+43,45,2022-09-19,9/19/2022,9/19/2022,Houston Street,Positive Observation,Public Exposure: MPT,MLJTC2,9,2022,Closed - On Time
+45,48,2022-10-11,10/11/2022,10/11/2022,Broad Street,Negative Observation,Personal Safety & Life Saving Equipment,"TC Electric, LLC",10,2022,Closed - On Time
+48,51,2022-10-12,,10/12/2022,33rd Street,Negative Observation,Stairways & Ladders,MLJTC2,10,2022,No Due Date
+49,52,2022-10-05,10/6/2022,10/6/2022,33rd Street,OSHA Recordable Accident,"Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,10,2022,Closed - On Time
+51,54,2022-10-27,10/27/2022,,33rd Street,Positive Observation,Public Exposure: MPT,"Crossroads JV, LLC.",10,2022,Open - Late
+51,54,2022-10-27,10/27/2022,,33rd Street,Positive Observation, Fall Protection,"Crossroads JV, LLC.",10,2022,Open - Late
+51,54,2022-10-27,10/27/2022,,33rd Street,Positive Observation, Fire Protection and Prevention,"Crossroads JV, LLC.",10,2022,Open - Late
+55,58,2022-11-14,11/14/2022,11/14/2022,Houston Street,Positive Observation,"Materials Handling, Storage, Use and Disposal",MLJTC2,11,2022,Closed - On Time
+55,58,2022-11-14,11/14/2022,11/14/2022,Houston Street,Positive Observation," Signs, Signals & Barricades",MLJTC2,11,2022,Closed - On Time
+55,58,2022-11-14,11/14/2022,11/14/2022,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,11,2022,Closed - On Time
+55,58,2022-11-14,11/14/2022,11/14/2022,Houston Street,Positive Observation, Personal Safety & Life Saving Equipment,MLJTC2,11,2022,Closed - On Time
+58,61,2022-11-22,12/8/2022,,33rd Street,Negative Observation,Fire Protection and Prevention,MLJTC2,11,2022,Open - Late
+58,61,2022-11-22,12/8/2022,,33rd Street,Negative Observation, Housekeeping,MLJTC2,11,2022,Open - Late
+59,62,2022-11-21,11/21/2022,,Houston Street,Positive Observation,Public Exposure: MPT,MLJTC2,11,2022,Open - Late
+59,62,2022-11-21,11/21/2022,,Houston Street,Positive Observation," Materials Handling, Storage, Use and Disposal",MLJTC2,11,2022,Open - Late
+59,62,2022-11-21,11/21/2022,,Houston Street,Positive Observation, Toxic and Hazardous Substances,MLJTC2,11,2022,Open - Late
+59,62,2022-11-21,11/21/2022,,Houston Street,Positive Observation, Fall Protection,MLJTC2,11,2022,Open - Late
+64,67,2022-04-04,4/4/2022,4/4/2022,51st Street,Negative Observation,Public Exposure: MPT,MLJTC2,4,2022,Closed - On Time
+66,69,2022-11-28,11/28/2022,,Broad Street,Positive Observation,Personal Safety & Life Saving Equipment,"TC Electric, LLC",11,2022,Open - Late
+66,69,2022-11-28,11/28/2022,,Broad Street,Positive Observation, Electrical,"TC Electric, LLC",11,2022,Open - Late
+67,70,2022-12-02,12/2/2022,12/2/2022,Houston Street,Negative Observation,Fire Protection and Prevention,Rebar Steel Corp.,12,2022,Closed - On Time
+67,70,2022-12-02,12/2/2022,12/2/2022,Houston Street,Negative Observation, Welding and Cutting,Rebar Steel Corp.,12,2022,Closed - On Time
+68,71,2022-12-02,12/2/2022,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,12,2022,Open - Late
+68,71,2022-12-02,12/2/2022,,Houston Street,Positive Observation," Signs, Signals & Barricades",MLJTC2,12,2022,Open - Late
+68,71,2022-12-02,12/2/2022,,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,12,2022,Open - Late
+72,75,2022-12-09,12/9/2022,12/9/2022,Houston Street,Negative Observation,Excavations,MLJTC2,12,2022,Closed - On Time
+73,76,2022-12-08,12/8/2022,,Houston Street,Negative Observation,Personal Safety & Life Saving Equipment,MLJTC2,12,2022,Open - Late
+73,76,2022-12-08,12/8/2022,,Houston Street,Negative Observation," Materials Handling, Storage, Use and Disposal",MLJTC2,12,2022,Open - Late
+74,77,2022-12-08,12/8/2022,,Houston Street,Positive Observation,Fire Protection and Prevention,MLJTC2,12,2022,Open - Late
+74,77,2022-12-08,12/8/2022,,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,12,2022,Open - Late
+74,77,2022-12-08,12/8/2022,,Houston Street,Positive Observation, Housekeeping,MLJTC2,12,2022,Open - Late
+77,80,2022-12-10,12/10/2022,12/10/2022,Houston Street,Positive Observation,Public Exposure: MPT,MLJTC2,12,2022,Closed - On Time
+77,80,2022-12-10,12/10/2022,12/10/2022,Houston Street,Positive Observation, Fall Protection,MLJTC2,12,2022,Closed - On Time
+77,80,2022-12-10,12/10/2022,12/10/2022,Houston Street,Positive Observation, Personal Safety & Life Saving Equipment,MLJTC2,12,2022,Closed - On Time
+77,80,2022-12-10,12/10/2022,12/10/2022,Houston Street,Positive Observation," Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,12,2022,Closed - On Time
+79,82,2022-12-12,12/12/2022,12/12/2022,Houston Street,Positive Observation,"Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,12,2022,Closed - On Time
+79,82,2022-12-12,12/12/2022,12/12/2022,Houston Street,Positive Observation, Personal Safety & Life Saving Equipment,MLJTC2,12,2022,Closed - On Time
+80,83,2022-12-19,12/19/2022,,Houston Street,Positive Observation,,MLJTC2,12,2022,Open - Late
+81,84,2022-12-16,12/16/2022,12/16/2022,Broad Street,Negative Observation,Public Exposure: MPT,"TC Electric, LLC",12,2022,Closed - On Time
+82,85,2022-12-16,12/16/2022,12/16/2022,Broad Street,Positive Observation,Electrical,"TC Electric, LLC",12,2022,Closed - On Time
+82,85,2022-12-16,12/16/2022,12/16/2022,Broad Street,Positive Observation, Personal Safety & Life Saving Equipment,"TC Electric, LLC",12,2022,Closed - On Time
+84,87,2022-12-15,12/15/2022,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,12,2022,Open - Late
+84,87,2022-12-15,12/15/2022,,Houston Street,Positive Observation, Housekeeping,MLJTC2,12,2022,Open - Late
+84,87,2022-12-15,12/15/2022,,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,12,2022,Open - Late
+86,89,2022-12-14,12/14/2022,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,"Crossroads JV, LLC.",12,2022,Open - Late
+88,91,2022-12-28,12/28/2022,12/28/2022,Houston Street,Positive Observation,Electrical,MLJTC2,12,2022,Closed - On Time
+88,91,2022-12-28,12/28/2022,12/28/2022,Houston Street,Positive Observation, Fire Protection and Prevention,MLJTC2,12,2022,Closed - On Time
+88,91,2022-12-28,12/28/2022,12/28/2022,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,12,2022,Closed - On Time
+89,92,2022-12-30,12/30/2022,12/30/2022,51st Street,Positive Observation,Fire Protection and Prevention,MLJTC2,12,2022,Closed - On Time
+89,92,2022-12-30,12/30/2022,12/30/2022,51st Street,Positive Observation," Materials Handling, Storage, Use and Disposal",MLJTC2,12,2022,Closed - On Time
+89,92,2022-12-30,12/30/2022,12/30/2022,51st Street,Positive Observation, Fall Protection,MLJTC2,12,2022,Closed - On Time
+89,92,2022-12-30,12/30/2022,12/30/2022,51st Street,Positive Observation, Housekeeping,MLJTC2,12,2022,Closed - On Time
+89,92,2022-12-30,12/30/2022,12/30/2022,51st Street,Positive Observation, Public Exposure: MPT,MLJTC2,12,2022,Closed - On Time
+90,93,2022-12-30,12/30/2022,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,12,2022,Open - Late
+90,93,2022-12-30,12/30/2022,,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,12,2022,Open - Late
+90,93,2022-12-30,12/30/2022,,Houston Street,Positive Observation, Housekeeping,MLJTC2,12,2022,Open - Late
+90,93,2022-12-30,12/30/2022,,Houston Street,Positive Observation, Fire Protection and Prevention,MLJTC2,12,2022,Open - Late
+91,94,2022-12-30,12/30/2022,,Houston Street,Negative Observation,Public Exposure: Site Protection,MLJTC2,12,2022,Open - Late
+93,96,2022-12-20,12/20/2022,12/20/2022,Houston Street,Negative Observation,Welding and Cutting,MLJTC2,12,2022,Closed - On Time
+93,96,2022-12-20,12/20/2022,12/20/2022,Houston Street,Negative Observation, Housekeeping,MLJTC2,12,2022,Closed - On Time
+94,97,2022-12-20,12/20/2022,12/20/2022,Houston Street,Negative Observation,Excavations,MLJTC2,12,2022,Closed - On Time
+96,99,2022-12-20,12/20/2022,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,12,2022,Open - Late
+96,99,2022-12-20,12/20/2022,,Houston Street,Positive Observation, Housekeeping,MLJTC2,12,2022,Open - Late
+97,100,2023-01-09,1/9/2023,1/9/2023,Houston Street,Negative Observation,"Materials Handling, Storage, Use and Disposal",MLJTC2,1,2023,Closed - On Time
+97,100,2023-01-09,1/9/2023,1/9/2023,Houston Street,Negative Observation, Welding and Cutting,MLJTC2,1,2023,Closed - On Time
+98,101,2023-01-09,1/9/2023,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,1,2023,Open - Late
+98,101,2023-01-09,1/9/2023,,Houston Street,Positive Observation, Fall Protection,MLJTC2,1,2023,Open - Late
+98,101,2023-01-09,1/9/2023,,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,1,2023,Open - Late
+98,101,2023-01-09,1/9/2023,,Houston Street,Positive Observation, Fire Protection and Prevention,MLJTC2,1,2023,Open - Late
+99,102,2023-01-09,1/9/2023,,Broad Street,Positive Observation,Public Exposure: MPT,"Crossroads JV, LLC.",1,2023,Open - Late
+99,102,2023-01-09,1/9/2023,,Broad Street,Positive Observation, Public Exposure: Site Protection,"Crossroads JV, LLC.",1,2023,Open - Late
+99,102,2023-01-09,1/9/2023,,Broad Street,Positive Observation, Electrical,"Crossroads JV, LLC.",1,2023,Open - Late
+99,102,2023-01-09,1/9/2023,,Broad Street,Positive Observation, Personal Safety & Life Saving Equipment,"Crossroads JV, LLC.",1,2023,Open - Late
+100,103,2023-01-10,1/10/2023,1/10/2023,Houston Street,Negative Observation,Fire Protection and Prevention,MLJTC2,1,2023,Closed - On Time
+100,103,2023-01-10,1/10/2023,1/10/2023,Houston Street,Negative Observation," Materials Handling, Storage, Use and Disposal",MLJTC2,1,2023,Closed - On Time
+100,103,2023-01-10,1/10/2023,1/10/2023,Houston Street,Negative Observation, Toxic and Hazardous Substances,MLJTC2,1,2023,Closed - On Time
+102,105,2023-01-10,1/10/2023,,Houston Street,Positive Observation,Fire Protection and Prevention,MLJTC2,1,2023,Open - Late
+102,105,2023-01-10,1/10/2023,,Houston Street,Positive Observation, Excavations,MLJTC2,1,2023,Open - Late
+104,107,2023-01-12,1/12/2023,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,"Crossroads JV, LLC.",1,2023,Open - Late
+104,107,2023-01-12,1/12/2023,,Houston Street,Positive Observation, Scaffolds,"Crossroads JV, LLC.",1,2023,Open - Late
+104,107,2023-01-12,1/12/2023,,Houston Street,Positive Observation, Housekeeping,"Crossroads JV, LLC.",1,2023,Open - Late
+106,109,2023-01-12,1/12/2023,,33rd Street,Positive Observation,Fire Protection and Prevention,"Crossroads JV, LLC.",1,2023,Open - Late
+106,109,2023-01-12,1/12/2023,,33rd Street,Positive Observation, Fall Protection,"Crossroads JV, LLC.",1,2023,Open - Late
+106,109,2023-01-12,1/12/2023,,33rd Street,Positive Observation, Housekeeping,"Crossroads JV, LLC.",1,2023,Open - Late
+106,109,2023-01-12,1/12/2023,,33rd Street,Positive Observation, Public Exposure: Site Protection,"Crossroads JV, LLC.",1,2023,Open - Late
+107,110,2023-01-12,1/12/2023,1/12/2023,33rd Street,Negative Observation,,MLJTC2,1,2023,Closed - On Time
+108,111,2023-01-19,1/19/2023,,51st Street,Positive Observation,Public Exposure: MPT,MLJTC2,1,2023,Open - Late
+108,111,2023-01-19,1/19/2023,,51st Street,Positive Observation, Fire Protection and Prevention,MLJTC2,1,2023,Open - Late
+108,111,2023-01-19,1/19/2023,,51st Street,Positive Observation, Personal Safety & Life Saving Equipment,MLJTC2,1,2023,Open - Late
+108,111,2023-01-19,1/19/2023,,51st Street,Positive Observation, Housekeeping,MLJTC2,1,2023,Open - Late
+109,112,2023-01-19,1/19/2023,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,1,2023,Open - Late
+109,112,2023-01-19,1/19/2023,,Houston Street,Positive Observation," Signs, Signals & Barricades",MLJTC2,1,2023,Open - Late
+109,112,2023-01-19,1/19/2023,,Houston Street,Positive Observation, Fire Protection and Prevention,MLJTC2,1,2023,Open - Late
+109,112,2023-01-19,1/19/2023,,Houston Street,Positive Observation, Housekeeping,MLJTC2,1,2023,Open - Late
+109,112,2023-01-19,1/19/2023,,Houston Street,Positive Observation," Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,1,2023,Open - Late
+109,112,2023-01-19,1/19/2023,,Houston Street,Positive Observation, Flagging,MLJTC2,1,2023,Open - Late
+109,112,2023-01-19,1/19/2023,,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,1,2023,Open - Late
+109,112,2023-01-19,1/19/2023,,Houston Street,Positive Observation, Fall Protection,MLJTC2,1,2023,Open - Late
+110,113,2023-01-20,1/20/2023,,33rd Street,Positive Observation,Public Exposure: Site Protection,Providence Construction Corp.,1,2023,Open - Late
+110,113,2023-01-20,1/20/2023,,33rd Street,Positive Observation, Personal Safety & Life Saving Equipment,Providence Construction Corp.,1,2023,Open - Late
+110,113,2023-01-20,1/20/2023,,33rd Street,Positive Observation, Fire Protection and Prevention,Providence Construction Corp.,1,2023,Open - Late
+110,113,2023-01-20,1/20/2023,,33rd Street,Positive Observation, Public Exposure: MPT,Providence Construction Corp.,1,2023,Open - Late
+110,113,2023-01-20,1/20/2023,,33rd Street,Positive Observation, Fall Protection,Providence Construction Corp.,1,2023,Open - Late
+111,114,2023-01-24,1/24/2023,,33rd Street,Positive Observation,Electrical,"Crossroads JV, LLC.",1,2023,Open - Late
+111,114,2023-01-24,1/24/2023,,33rd Street,Positive Observation, Housekeeping,"Crossroads JV, LLC.",1,2023,Open - Late
+111,114,2023-01-24,1/24/2023,,33rd Street,Positive Observation, Excavations,"Crossroads JV, LLC.",1,2023,Open - Late
+111,114,2023-01-24,1/24/2023,,33rd Street,Positive Observation, Fire Protection and Prevention,"Crossroads JV, LLC.",1,2023,Open - Late
+113,116,2023-01-26,1/26/2023,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,"Crossroads JV, LLC.",1,2023,Open - Late
+113,116,2023-01-26,1/26/2023,,Houston Street,Positive Observation, Public Exposure: MPT,"Crossroads JV, LLC.",1,2023,Open - Late
+113,116,2023-01-26,1/26/2023,,Houston Street,Positive Observation, Flagging,"Crossroads JV, LLC.",1,2023,Open - Late
+113,116,2023-01-26,1/26/2023,,Houston Street,Positive Observation, Housekeeping,"Crossroads JV, LLC.",1,2023,Open - Late
+113,116,2023-01-26,1/26/2023,,Houston Street,Positive Observation," Signs, Signals & Barricades","Crossroads JV, LLC.",1,2023,Open - Late
+116,119,2023-01-31,1/31/2023,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,1,2023,Open - Late
+116,119,2023-01-31,1/31/2023,,Houston Street,Positive Observation, Housekeeping,MLJTC2,1,2023,Open - Late
+116,119,2023-01-31,1/31/2023,,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,1,2023,Open - Late
+116,119,2023-01-31,1/31/2023,,Houston Street,Positive Observation," Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,1,2023,Open - Late
+116,119,2023-01-31,1/31/2023,,Houston Street,Positive Observation, Electrical,MLJTC2,1,2023,Open - Late
+118,121,2023-01-27,1/27/2023,,Houston Street,Positive Observation,Public Exposure: MPT,MLJTC2,1,2023,Open - Late
+118,121,2023-01-27,1/27/2023,,Houston Street,Positive Observation, Excavations,MLJTC2,1,2023,Open - Late
+118,121,2023-01-27,1/27/2023,,Houston Street,Positive Observation, Housekeeping,MLJTC2,1,2023,Open - Late
+118,121,2023-01-27,1/27/2023,,Houston Street,Positive Observation," Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,1,2023,Open - Late
+120,123,2023-02-03,2/3/2023,,33rd Street,Positive Observation,Housekeeping,MLJTC2,2,2023,Open - Late
+120,123,2023-02-03,2/3/2023,,33rd Street,Positive Observation, Stairways & Ladders,MLJTC2,2,2023,Open - Late
+120,123,2023-02-03,2/3/2023,,33rd Street,Positive Observation, Public Exposure: MPT,MLJTC2,2,2023,Open - Late
+120,123,2023-02-03,2/3/2023,,33rd Street,Positive Observation, Flagging,MLJTC2,2,2023,Open - Late
+120,123,2023-02-03,2/3/2023,,33rd Street,Positive Observation," Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,2,2023,Open - Late
+121,124,2023-02-03,2/3/2023,2/3/2023,33rd Street,Negative Observation,Fire Protection and Prevention,MLJTC2,2,2023,Closed - On Time
+121,124,2023-02-03,2/3/2023,2/3/2023,33rd Street,Negative Observation, Welding and Cutting,MLJTC2,2,2023,Closed - On Time
+122,125,2023-02-02,2/2/2023,2/2/2023,51st Street,Positive Observation,Fire Protection and Prevention,MLJTC2,2,2023,Closed - On Time
+122,125,2023-02-02,2/2/2023,2/2/2023,51st Street,Positive Observation, Public Exposure: MPT,MLJTC2,2,2023,Closed - On Time
+122,125,2023-02-02,2/2/2023,2/2/2023,51st Street,Positive Observation, Public Exposure: Site Protection,MLJTC2,2,2023,Closed - On Time
+123,126,2023-02-09,2/9/2023,,33rd Street,Positive Observation,Personal Safety & Life Saving Equipment,"TC Electric, LLC",2,2023,Open - Late
+123,126,2023-02-09,2/9/2023,,33rd Street,Positive Observation, Fire Protection and Prevention,"TC Electric, LLC",2,2023,Open - Late
+123,126,2023-02-09,2/9/2023,,33rd Street,Positive Observation, Electrical,"TC Electric, LLC",2,2023,Open - Late
+123,126,2023-02-09,2/9/2023,,33rd Street,Positive Observation, Public Exposure: MPT,"TC Electric, LLC",2,2023,Open - Late
+123,126,2023-02-09,2/9/2023,,33rd Street,Positive Observation, Public Exposure: Site Protection,"TC Electric, LLC",2,2023,Open - Late
+124,127,2023-02-10,2/10/2023,,33rd Street,Positive Observation,"Motor Vehicles, Mechanized Equipment, Marine Operations",50 States Engg. Corp,2,2023,Open - Late
+124,127,2023-02-10,2/10/2023,,33rd Street,Positive Observation, Personal Safety & Life Saving Equipment,50 States Engg. Corp,2,2023,Open - Late
+124,127,2023-02-10,2/10/2023,,33rd Street,Positive Observation, Fall Protection,50 States Engg. Corp,2,2023,Open - Late
+124,127,2023-02-10,2/10/2023,,33rd Street,Positive Observation, Excavations,50 States Engg. Corp,2,2023,Open - Late
+124,127,2023-02-10,2/10/2023,,33rd Street,Positive Observation, Public Exposure: MPT,50 States Engg. Corp,2,2023,Open - Late
+125,128,2023-02-13,2/13/2023,,Houston Street,Positive Observation,"Materials Handling, Storage, Use and Disposal","Crossroads JV, LLC.",2,2023,Open - Late
+125,128,2023-02-13,2/13/2023,,Houston Street,Positive Observation," Motor Vehicles, Mechanized Equipment, Marine Operations","Crossroads JV, LLC.",2,2023,Open - Late
+125,128,2023-02-13,2/13/2023,,Houston Street,Positive Observation, Public Exposure: MPT,"Crossroads JV, LLC.",2,2023,Open - Late
+125,128,2023-02-13,2/13/2023,,Houston Street,Positive Observation, Public Exposure: Site Protection,"Crossroads JV, LLC.",2,2023,Open - Late
+125,128,2023-02-13,2/13/2023,,Houston Street,Positive Observation, Fire Protection and Prevention,"Crossroads JV, LLC.",2,2023,Open - Late
+126,129,2023-02-13,2/13/2023,,Broad Street,Positive Observation,Personal Safety & Life Saving Equipment,Modern Elevators,2,2023,Open - Late
+126,129,2023-02-13,2/13/2023,,Broad Street,Positive Observation, Housekeeping,Modern Elevators,2,2023,Open - Late
+126,129,2023-02-13,2/13/2023,,Broad Street,Positive Observation, Fall Protection,Modern Elevators,2,2023,Open - Late
+126,129,2023-02-13,2/13/2023,,Broad Street,Positive Observation, Electrical,Modern Elevators,2,2023,Open - Late
+127,130,2023-02-17,2/17/2023,,Houston Street,Positive Observation,Personal Safety & Life Saving Equipment,MLJTC2,2,2023,Open - Late
+127,130,2023-02-17,2/17/2023,,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,2,2023,Open - Late
+127,130,2023-02-17,2/17/2023,,Houston Street,Positive Observation," Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,2,2023,Open - Late
+127,130,2023-02-17,2/17/2023,,Houston Street,Positive Observation, Public Exposure: Site Protection,MLJTC2,2,2023,Open - Late
+128,131,2023-02-21,2/21/2023,,33rd Street,Positive Observation,Fall Protection,MLJTC2,2,2023,Open - Late
+128,131,2023-02-21,2/21/2023,,33rd Street,Positive Observation, Public Exposure: MPT,MLJTC2,2,2023,Open - Late
+128,131,2023-02-21,2/21/2023,,33rd Street,Positive Observation, Personal Safety & Life Saving Equipment,MLJTC2,2,2023,Open - Late
+128,131,2023-02-21,2/21/2023,,33rd Street,Positive Observation," Signs, Signals & Barricades",MLJTC2,2,2023,Open - Late
+128,131,2023-02-21,2/21/2023,,33rd Street,Positive Observation, Excavations,MLJTC2,2,2023,Open - Late
+128,131,2023-02-21,2/21/2023,,33rd Street,Positive Observation, Stairways & Ladders,MLJTC2,2,2023,Open - Late
+131,134,2023-02-25,2/25/2023,,Houston Street,Positive Observation,Public Exposure: MPT,MLJTC2,2,2023,Open - Late
+131,134,2023-02-25,2/25/2023,,Houston Street,Positive Observation, Track Safety,MLJTC2,2,2023,Open - Late
+131,134,2023-02-25,2/25/2023,,Houston Street,Positive Observation, Personal Safety & Life Saving Equipment,MLJTC2,2,2023,Open - Late
+132,135,2023-02-27,2/27/2023,,Houston Street,Positive Observation,"Materials Handling, Storage, Use and Disposal",MLJTC2,2,2023,Open - Late
+132,135,2023-02-27,2/27/2023,,Houston Street,Positive Observation, Personal Safety & Life Saving Equipment,MLJTC2,2,2023,Open - Late
+132,135,2023-02-27,2/27/2023,,Houston Street,Positive Observation, Fall Protection,MLJTC2,2,2023,Open - Late
+132,135,2023-02-27,2/27/2023,,Houston Street,Positive Observation, Fire Protection and Prevention,MLJTC2,2,2023,Open - Late
+132,135,2023-02-27,2/27/2023,,Houston Street,Positive Observation, Housekeeping,MLJTC2,2,2023,Open - Late
+132,135,2023-02-27,2/27/2023,,Houston Street,Positive Observation," Underground Construction, Caissons, Cofferdams and Compressed Air",MLJTC2,2,2023,Open - Late
+132,135,2023-02-27,2/27/2023,,Houston Street,Positive Observation, Demolition,MLJTC2,2,2023,Open - Late
+134,137,2023-03-02,3/2/2023,3/2/2023,Houston Street,Negative Observation,Fall Protection,MLJTC2,3,2023,Closed - On Time
+135,138,2023-03-02,3/2/2023,3/17/2023,Houston Street,Negative Observation,Public Exposure: MPT,MLJTC2,3,2023,Closed - On Time
+136,139,2023-03-02,3/2/2023,3/2/2023,Houston Street,Positive Observation,Housekeeping,MLJTC2,3,2023,Closed - On Time
+136,139,2023-03-02,3/2/2023,3/2/2023,Houston Street,Positive Observation, Public Exposure: MPT,MLJTC2,3,2023,Closed - On Time
+136,139,2023-03-02,3/2/2023,3/2/2023,Houston Street,Positive Observation, Excavations,MLJTC2,3,2023,Closed - On Time
+136,139,2023-03-02,3/2/2023,3/2/2023,Houston Street,Positive Observation," Signs, Signals & Barricades",MLJTC2,3,2023,Closed - On Time
+137,140,2023-03-07,3/7/2023,,Houston Street,Negative Observation,Personal Safety & Life Saving Equipment,MLJTC2,3,2023,Open - On Time
+137,140,2023-03-07,3/7/2023,,Houston Street,Negative Observation, Fall Protection,MLJTC2,3,2023,Open - On Time
+137,140,2023-03-07,3/7/2023,,Houston Street,Negative Observation," Motor Vehicles, Mechanized Equipment, Marine Operations",MLJTC2,3,2023,Open - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation,Personal Safety & Life Saving Equipment,MLJTC2,3,2023,Closed - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation, Fall Protection,MLJTC2,3,2023,Closed - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation, Track Safety,MLJTC2,3,2023,Closed - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation," Signs, Signals & Barricades",MLJTC2,3,2023,Closed - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation, Public Exposure: Site Protection,MLJTC2,3,2023,Closed - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation, Flagging,MLJTC2,3,2023,Closed - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation, Stairways & Ladders,MLJTC2,3,2023,Closed - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation, Electrical,MLJTC2,3,2023,Closed - On Time
+138,141,2023-03-04,3/4/2023,3/10/2023,Houston Street,Negative Observation," Helicopters, Hoists, Elevators and Conveyors",MLJTC2,3,2023,Closed - On Time
+139,142,2023-03-12,,,33rd Street,Negative Observation,Fire Protection and Prevention,"TC Electric, LLC",3,2023,No Due Date
+140,143,2023-03-09,3/10/2023,3/10/2023,Houston Street,Negative Observation,Public Exposure: MPT,MLJTC2,3,2023,Closed - On Time
